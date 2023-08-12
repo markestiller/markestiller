@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently improving my Leetcode 
+- 🔭 Currently improving in Leetcode 
 - 🌱 Learning Django and ML
 - 💬 Know more about me on [https://mark-estiller.netlify.app/](https://mark-estiller.netlify.app/)
 
