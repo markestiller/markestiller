@@ -2,7 +2,7 @@
 
 - 🔭 Currently improving in Leetcode 
 - 🌱 Learning Django and ML
-- 💬 Know more about me on [https://mark-estiller.netlify.app/](https://mark-estiller.netlify.app/)
+- 💬 Learn more about me on [https://mark-estiller.netlify.app/](https://mark-estiller.netlify.app/)
 
 <!--
 **markestiller/markestiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
