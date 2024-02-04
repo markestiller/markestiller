@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Seeking Summer 2024 Internships
+- 🔭 Incoming Software Developer at Ericsson
 - 🌱 Learning Django and ML
 - 💬 Learn more about me on [https://mark-estiller.netlify.app/](https://mark-estiller.netlify.app/)
 
