@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Mark 👋
 
 - 🔭 Incoming Software Developer at Ericsson
 - 🌱 Learning Django and ML
