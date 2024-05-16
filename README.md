@@ -1,7 +1,6 @@
 ## Hi, I'm Mark 👋
 
-- 🔭 Incoming Software Developer at Ericsson
-- 🌱 Learning Django and ML
+- 🔭 5G Software Developer intern at Ericsson
 - 💬 Learn more about me on [https://mark-estiller.netlify.app/](https://mark-estiller.netlify.app/)
 
 ## Tech Stack 💻:
