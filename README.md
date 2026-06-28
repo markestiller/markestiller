@@ -1,6 +1,6 @@
 ## Hi, I'm Mark 👋
 
-- 🔭 5G Software Developer intern at Ericsson
+- 🔭 Software Engineer intern @ Microsoft
 - 💬 Learn more about me on [https://mark-estiller.netlify.app/](https://mark-estiller.netlify.app/)
 
 ## Tech Stack 💻:
